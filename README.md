@@ -216,7 +216,7 @@ Classifies audience data into personas and generates aggregate insights.
 
 <td width="50%" valign="top">
 
-## 🌾 GOAL FLOW
+## 🎯 GOAL FLOW
 
 **Smart agriculture marketplace**
 
@@ -292,7 +292,7 @@ An interactive movie recommendation application for discovering movies based on 
 
 - 🎬 Netflix Clone
 - ⚙️ NexusOps
-- 🌾 GoalFlow
+- 🎯 GoalFlow
 - 🤖 AI-based Applications
 
 ---
@@ -335,15 +335,6 @@ An interactive movie recommendation application for discovering movies based on 
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anubhav9415/Anubhav9415/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
 
 # ⚡ Fun Fact
 
